@@ -2,15 +2,15 @@
 
 ## First-time setup
 
+##### Following these directions
+
+* It is recommended that you duplicate this tab so that you can _read_ the directions in one tab, and _follow_ the directions in the other tab. If you want, you can even split-screen them and put them side by side.
+
 ##### Getting your own copy of the template
 
 * Click the **Fork** icon in the top-right corner. If you're able to rename it now, rename it to `yourGithubUsername.github.io`. For example, a student with the Github username of _johnd1234_ would change their **Repository name** to `johnd1234.github.io`
 * After you have your own copy, on the right sidebar, click the gear icon next to **About** and add a description!
   * For example, _This is a collection of all of my work._
-
-##### Following these directions
-
-* It is recommended that you duplicate this tab so that you can _read_ the directions in one tab, and _follow_ the directions in the other tab. If you want, you can even split-screen them and put them side by side.
 
 ##### Updating your username
 
